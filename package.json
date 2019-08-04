@@ -15,5 +15,10 @@
     "url": "https://github.com/TheDarkStrix/notesapp/issues"
   },
   "homepage": "https://github.com/TheDarkStrix/notesapp#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mariadb": "^2.1.0",
+    "sequelize": "^5.12.2"
+  }
 }
